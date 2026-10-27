@@ -1,0 +1,6 @@
+streamlit
+transformers
+torch
+
+# Optional (if you need CPU-only PyTorch wheel):
+# torch==2.2.0+cpu --index-url https://download.pytorch.org/whl/cpu
